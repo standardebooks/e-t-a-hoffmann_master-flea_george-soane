@@ -24,12 +24,11 @@
 		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
 		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
 		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A gentleman bachelor gains an epic advantage of tiny proportions in this allegorical, Romantic, fairy-tale novel.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			<p>Ernst Theodor Amadeus Hoffmann was a contemporary of Ludwig von Beethoven; a composer himself; a music critic; and a late-German-Romantic-movement writer of novels and numerous short stories. His incisive wit and poetic imagery allow the reader to peer into the foibles of society and human psychology. (In fact, Hoffmann’s wit may have gotten him into a bit of legal trouble, as parts of <i>Master Flea</i> were censored and had to be reworked when authories found that certain satirical criticisms of contemporary dealings of the court system hit a bit close to home.)</p>
-			<p>Join gentleman bachelor Peregrine Tyss as his life as a recluse takes a twist. Part proto-science fiction and part Romantic fantasy, <i>Master Flea</i> follows the fate of a mysterious, captivating princess at the intersection of numerous suitors, human and insect. Like a lesson from a fable or a tale of classical mythology, Hoffmann’s fairy-tale allegory demonstrates how forbidden knowledge risks poisoning the soul, but how following the heart can heal it.</p>
-		]]>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Ernst Theodor Amadeus Hoffmann was a contemporary of Ludwig von Beethoven; a composer himself; a music critic; and a late-German-Romantic-movement writer of novels and numerous short stories. His incisive wit and poetic imagery allow the reader to peer into the foibles of society and the follies of human psychology. (In fact, Hoffmann’s wit may have gotten him into a bit of legal trouble, as parts of &lt;i&gt;Master Flea&lt;/i&gt; were censored and had to be reworked when authories disliked certain satirical criticisms of contemporary dealings of the court system.)&lt;/p&gt;
+			&lt;p&gt;Join gentleman bachelor Peregrine Tyss as his life as a recluse takes a twist, when he gains an epic advantage of tiny proportions. Part proto-science-fiction and part Romantic fantasy, &lt;i&gt;Master Flea&lt;/i&gt; follows the fate of a mysterious, captivating princess at the intersection of numerous suitors, human and insect. Like a lesson from a fable or a tale of classical mythology, Hoffmann’s fairy-tale allegory shows how seeking forbidden knowledge can poison the soul, and how following the heart can heal it.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -51,10 +50,10 @@
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
+		<dc:contributor id="artist">Jan Verkolje</dc:contributor>
+		<meta property="file-as" refines="#artist">Verkolje, Jan</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jan_Verkolje</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2015136300</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Charles Bowen</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Bowen, Charles</meta>
