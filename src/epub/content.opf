@@ -31,7 +31,8 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>LINK</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/32223</dc:source>
+		<dc:source>https://www.archive.org/details/specimensofgerma02soanuoft</dc:source>
 		<meta property="se:word-count">46529</meta>
 		<meta property="se:reading-ease.flesch">63.43</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Master_Flea</meta>
