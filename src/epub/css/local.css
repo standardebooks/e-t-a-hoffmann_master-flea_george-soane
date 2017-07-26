@@ -15,3 +15,12 @@ blockquote header p {
 	margin: 3em 0;
 	font-size: 1.1em;
 }
+
+[epub|type~="z3998:letter"] footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+.signature{
+	font-variant: small-caps;
+}
