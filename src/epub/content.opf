@@ -70,6 +70,7 @@
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Jared Updike</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Updike, Jared</meta>
+		<meta property="schema:alternateName" refines="#producer-1">Jared Fisher Updike</meta>
 		<link href="http://jared.updike.org/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
